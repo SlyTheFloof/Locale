@@ -3,6 +3,26 @@
     "authors": ["Nammi", "Enverex", "atomicwave", "CyberZott", "Nytra"],
     "messages": {
 
+        "General.OK": "OK",
+        "General.Start": "Start",
+        "General.Finish": "Finish",
+        "General.Cancel": "Cancel",
+        "General.Continue": "Continue",
+        "General.Next": "Next",
+        "General.Previous": "Previous",
+        "General.Back": "Back",
+        "General.Confirm": "Really?",
+        "General.Loading": "Loading...",
+        "General.Processing": "Processing...",
+        "General.FAILED": "FAILED",
+        "General.Reset": "Reset",
+        "General.WorldOpenConfirm": "Open Really?",
+        "General.Save": "Save",
+        "General.Saving": "Saving...",
+        "General.Saved": "Saved!",
+        "General.Done": "Done!",
+        "General.Close": "Close",
+
         "Undo.ChangeColor": "Change Colour",
 
         "Tooltip.Color.Picker": "Colour Picker",
